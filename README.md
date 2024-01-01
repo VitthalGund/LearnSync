@@ -1,4 +1,4 @@
-<div align="center">
+
 <img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
 
 # 📚 StudyBuddy: Empowering Collaborative Learning
@@ -85,7 +85,7 @@ StudyBuddy is a showcase project, demonstrating skills and innovation. It's not 
 
 Special thanks for considering this project, showcasing real-world problem-solving and technical expertise. Let's make learning together unforgettable! 🚀🎓
 ### App Preview :
-
+<div align="center">
 <table width="100%"> 
 <tr>
 <td width="50%">      
