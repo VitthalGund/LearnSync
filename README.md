@@ -1,38 +1,35 @@
-
-<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
-
-# 📚 StudyBuddy: Empowering Collaborative Learning
+# 🚀 LearnSync: Unleashing Collaborative Wisdom
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-## Welcome to StudyBuddy! 🚀
+## Welcome to LearnSync! 🌟
 
-StudyBuddy is not just a platform; it's a vibrant community designed to make learning a collaborative and enjoyable experience. Dive into a world where knowledge knows no bounds!
+LearnSync is more than just a platform; it's a dynamic community designed to transform learning into a collaborative and enjoyable journey. Explore the power of collective wisdom!
 
-## 🌟 Key Features
+## 🌈 Key Features
 
 - **User Account Creation:**
-  - Create your personalized learning hub with a few clicks! 🚀
+  - Craft your personalized learning haven with just a few clicks! 🚀
 
 - **Room Creation:**
-  - Start your own learning space! Title it, give it a topic, and let the collaboration begin! 🌐
+  - Kickstart your learning space! Title it, define the topic, and let the collaborative magic happen! 🌐
 
 - **Room Discovery:**
-  - Find rooms that match your interests using our personalized feed and smart search. It's like magic for learners! 🔍✨
+  - Discover rooms matching your interests through our personalized feed and intelligent search. It's like having a learning genie! 🔍✨
 
 - **Collaborative Environment:**
-  - Real-time file sharing, chat, and interactive activities in every room. Because learning is better together! 📚💬
+  - Real-time file sharing, chat, and interactive activities in every room. Because learning is a team sport! 📚💬
 
 ## 🚀 Get Started
 
 ### 1. Clone the Repository
    ```bash
-   git clone https://github.com/VitthalGund/StudyBuddy.git
+   git clone https://github.com/VitthalGund/LearnSync.git
    ```
 
 ### 2. Navigate to the Project
    ```bash
-   cd StudyBuddy
+   cd LearnSync
    ```
 
 ### 3. Install Dependencies
@@ -50,9 +47,9 @@ StudyBuddy is not just a platform; it's a vibrant community designed to make lea
    python manage.py runserver
    ```
 
-   Voila! StudyBuddy is now live at [http://localhost:8000](http://localhost:8000). Get ready to embark on your learning journey!
+   Hooray! LearnSync is now live at [http://127.0.0.1:8000/](http://127.0.0.1:8000/). Get ready for a collaborative learning adventure!
 
-## 🌈 Tech Stack
+## 🌐 Tech Stack
 
 - **Python**
 - **Django**
@@ -62,28 +59,29 @@ StudyBuddy is not just a platform; it's a vibrant community designed to make lea
 
 ## 🌐 Contributing
 
-Ready to contribute your brilliance? Check out our [contribution guidelines](CONTRIBUTING.md) and become a part of the StudyBuddy community! 🤝🚀
+Ready to contribute your brilliance? Check out our [contribution guidelines](CONTRIBUTING.md) and become a part of the LearnSync community! 🤝🚀
 
 ## 🚀 Future Improvements
 
 - Streamlining the user onboarding process.
-- Exciting community-building features and engaging events for enhanced learning experiences. 🎉🎓
+- Exciting community-building features and engaging events for an enhanced learning experience. 🎉🎓
 
 ## 🔐 Security and Privacy
 
-Your data is our top priority! StudyBuddy securely stores user data in an SQL database, ensuring the utmost protection. 🛡️💼
+Your data is our top priority! LearnSync securely stores user data in an SQL database, ensuring the utmost protection. 🛡️💼
 
 ## 📝 License
 
-StudyBuddy is licensed under the [Apache 2.0 License](LICENSE). Feel free to explore, customize, and share the knowledge! 🌐📚
+LearnSync is licensed under the [Apache 2.0 License](LICENSE). Feel free to explore, customize, and share the wisdom! 🌐📚
 
 ## ⚠️ Project Status
 
-StudyBuddy is a showcase project, demonstrating skills and innovation. It's not just a project; it's a commitment to excellence! 🌟
+LearnSync is a showcase project, demonstrating skills and innovation. It's not just a project; it's a commitment to excellence! 🌟
 
 ## 🙏 Acknowledgments
 
 Special thanks for considering this project, showcasing real-world problem-solving and technical expertise. Let's make learning together unforgettable! 🚀🎓
+
 ### App Preview :
 <div align="center">
 <table width="100%"> 
@@ -94,14 +92,27 @@ Special thanks for considering this project, showcasing real-world problem-solvi
 <p align="center">
   Feed Home
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747262-0a92233d-8010-40f8-84c5-8d94895aac44.PNG">
+  <img src="https://github.com/VitthalGund/StudyBuddy/assets/97181033/fa1f1aac-9f62-4ac7-874b-178bef3c539d">
+
 </td> 
+<td width="50%">
+<br>
+<p align="center">
+  User Preview
+</p>
+<img src="https://github.com/VitthalGund/StudyBuddy/assets/97181033/dfbc6149-58e0-4c7d-b3aa-c7a0fe77ef34">
+
+
+</td>
+</table>
+
 <td width="50%">
 <br>
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747155-3ca5b55f-b064-4741-aeae-abe90bddf41e.PNG">  
+<img src="https://github.com/VitthalGund/StudyBuddy/assets/97181033/caf738e2-bf25-4c30-ab0b-571297ccff4b">
+
 </td>
 </table>
 
