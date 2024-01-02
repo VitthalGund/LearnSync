@@ -1,61 +1,89 @@
-<div align="center">
-<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
+# 🚀 LearnSync: Unleashing Collaborative Wisdom
 
-# StudyBuddy
-</div>
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-### Cloning the repository
+## Welcome to LearnSync! 🌟
 
---> Clone the repository using the command below :
-```bash
-git clone https://github.com/divanov11/StudyBud.git
+LearnSync is more than just a platform; it's a dynamic community designed to transform learning into a collaborative and enjoyable journey. Explore the power of collective wisdom!
 
-```
+## 🌈 Key Features
 
---> Move into the directory where we have the project files : 
-```bash
-cd StudyBud
+- **User Account Creation:**
+  - Craft your personalized learning haven with just a few clicks! 🚀
 
-```
+- **Room Creation:**
+  - Kickstart your learning space! Title it, define the topic, and let the collaborative magic happen! 🌐
 
---> Create a virtual environment :
-```bash
-# Let's install virtualenv first
-pip install virtualenv
+- **Room Discovery:**
+  - Discover rooms matching your interests through our personalized feed and intelligent search. It's like having a learning genie! 🔍✨
 
-# Then we create our virtual environment
-virtualenv envname
+- **Collaborative Environment:**
+  - Real-time file sharing, chat, and interactive activities in every room. Because learning is a team sport! 📚💬
 
-```
+## 🚀 Get Started
 
---> Activate the virtual environment :
-```bash
-envname\scripts\activate
+### 1. Clone the Repository
+   ```bash
+   git clone https://github.com/VitthalGund/LearnSync.git
+   ```
 
-```
+### 2. Navigate to the Project
+   ```bash
+   cd LearnSync
+   ```
 
---> Install the requirements :
-```bash
-pip install -r requirements.txt
+### 3. Install Dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-```
+### 4. Apply Database Migrations
+   ```bash
+   python manage.py migrate
+   ```
 
-#
+### 5. Run the Application
+   ```bash
+   python manage.py runserver
+   ```
 
-### Running the App
+   Hooray! LearnSync is now live at [http://127.0.0.1:8000/](http://127.0.0.1:8000/). Get ready for a collaborative learning adventure!
 
---> To run the App, we use :
-```bash
-python manage.py runserver
+## 🌐 Tech Stack
 
-```
+- **Python**
+- **Django**
+- **HTML**
+- **CSS**
+- **SQL Database**
 
-> ⚠ Then, the development server will be started at http://127.0.0.1:8000/
+## 🌐 Contributing
 
-#
+Ready to contribute your brilliance? Check out our [contribution guidelines](CONTRIBUTING.md) and become a part of the LearnSync community! 🤝🚀
+
+## 🚀 Future Improvements
+
+- Streamlining the user onboarding process.
+- Exciting community-building features and engaging events for an enhanced learning experience. 🎉🎓
+
+## 🔐 Security and Privacy
+
+Your data is our top priority! LearnSync securely stores user data in an SQL database, ensuring the utmost protection. 🛡️💼
+
+## 📝 License
+
+LearnSync is licensed under the [Apache 2.0 License](LICENSE). Feel free to explore, customize, and share the wisdom! 🌐📚
+
+## ⚠️ Project Status
+
+LearnSync is a showcase project, demonstrating skills and innovation. It's not just a project; it's a commitment to excellence! 🌟
+
+## 🙏 Acknowledgments
+
+Special thanks for considering this project, showcasing real-world problem-solving and technical expertise. Let's make learning together unforgettable! 🚀🎓
 
 ### App Preview :
-
+<div align="center">
 <table width="100%"> 
 <tr>
 <td width="50%">      
@@ -64,14 +92,27 @@ python manage.py runserver
 <p align="center">
   Feed Home
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747262-0a92233d-8010-40f8-84c5-8d94895aac44.PNG">
+  <img src="https://github.com/VitthalGund/StudyBuddy/assets/97181033/fa1f1aac-9f62-4ac7-874b-178bef3c539d">
+
 </td> 
+<td width="50%">
+<br>
+<p align="center">
+  User Preview
+</p>
+<img src="https://github.com/VitthalGund/StudyBuddy/assets/97181033/dfbc6149-58e0-4c7d-b3aa-c7a0fe77ef34">
+
+
+</td>
+</table>
+
 <td width="50%">
 <br>
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747155-3ca5b55f-b064-4741-aeae-abe90bddf41e.PNG">  
+<img src="https://github.com/VitthalGund/StudyBuddy/assets/97181033/caf738e2-bf25-4c30-ab0b-571297ccff4b">
+
 </td>
 </table>
 
