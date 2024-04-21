@@ -144,7 +144,8 @@ Special thanks for considering this project, showcasing real-world problem-solvi
 <p align="center">
   Feed Home
 </p>
-  <img src="https://github.com/VitthalGund/StudyBuddy/assets/97181033/fa1f1aac-9f62-4ac7-874b-178bef3c539d">
+  <img src="https://github.com/VitthalGund/LearnSync/assets/97181033/d21bfabe-0872-4310-89e3-1f210e362b90">
+
 
 </td> 
 <td width="50%">
@@ -152,7 +153,7 @@ Special thanks for considering this project, showcasing real-world problem-solvi
 <p align="center">
   User Preview
 </p>
-<img src="https://github.com/VitthalGund/StudyBuddy/assets/97181033/dfbc6149-58e0-4c7d-b3aa-c7a0fe77ef34">
+<img src="https://github.com/VitthalGund/LearnSync/assets/97181033/05a20df5-26e1-462b-8a0e-c29be07cf717">
 
 
 </td>
@@ -163,7 +164,7 @@ Special thanks for considering this project, showcasing real-world problem-solvi
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="https://github.com/VitthalGund/StudyBuddy/assets/97181033/caf738e2-bf25-4c30-ab0b-571297ccff4b">
+<img src="https://github.com/VitthalGund/LearnSync/assets/97181033/44b36e24-9aaa-4e96-b791-4979cd422b2d">
 
 </td>
 </table>
